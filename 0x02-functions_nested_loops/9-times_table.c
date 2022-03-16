@@ -16,8 +16,8 @@ void times_table(void)
 		{
 			product = row * column;
 			
-			putchar(',');
-			putchar(' ');
+			_putchar(',');
+			_putchar(' ');
 
 			if (product <= 9)
 			{
