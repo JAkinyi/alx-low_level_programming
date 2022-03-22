@@ -8,14 +8,13 @@
 void print_rev(char *s)
 {
 	int len;
-	int i,j;
+	int i, j;
 
 	j = 0;
 
-	while (*s != '\0')
+	while (s[j] != '\0')
 	{
 		j++;
-		s++;
 	}
 
 	len = j;
@@ -26,5 +25,3 @@ void print_rev(char *s)
 	}
 	_putchar('\n');
 }
-
-
