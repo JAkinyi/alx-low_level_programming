@@ -1,6 +1,6 @@
 #include "main.h"
 
-int sqr(int n, int i); 
+int sqr(int n, int i);
 
 /**
  * _sqrt_recursion - computes squareroot of an integer
@@ -12,7 +12,7 @@ int _sqrt_recursion(int n)
 {
 	if (n < 0)
 		return (-1);
-	return (sqr(n,1));
+	return (sqr(n, 1));
 }
 
 /**
