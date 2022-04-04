@@ -7,7 +7,7 @@
  * Return 1 or 0
  */
 
-int main(int argc, char *argv)
+int main(int argc, char **argv)
 {
 	int mul;
 	
