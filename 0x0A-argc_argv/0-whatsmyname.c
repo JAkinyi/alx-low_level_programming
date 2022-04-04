@@ -2,7 +2,7 @@
 
 /**
  * main - prints name of program followed by a newline
- * @argc: number of variables 
+ * @argc: number of variables
  * @argv: array of variables passed to main
  * Return: 0
  */
