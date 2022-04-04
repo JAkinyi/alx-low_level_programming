@@ -5,7 +5,7 @@
  * main - multiplies two numbers passed as arguments to main
  * @argc: number of arguments passed
  * @argv: array containing the arguments
- * Return: 1 or 0
+ * Return: 0
  */
 
 int main(int argc, char *argv[])
