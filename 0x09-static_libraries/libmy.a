@@ -1,0 +1,2 @@
+ar rc libmy.a 0-isupper.o
+ranlib libmy.a
