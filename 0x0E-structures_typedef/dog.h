@@ -7,8 +7,8 @@
  * @age: member 2
  * @owner: member 3
  *
- * Description: a new structure 
- * 		called dog with 3 members
+ * Description: a new structure
+ * called dog with 3 members
  */
 struct dog
 {
