@@ -1,1 +1,1 @@
-to do on friday
+exit, calloc realloc
